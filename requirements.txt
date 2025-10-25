@@ -1,0 +1,11 @@
+requests
+Pillow
+datasets
+tqdm
+numpy
+sentence-transformers
+chromadb
+transformers
+rank_bm25
+torch
+matplotlib

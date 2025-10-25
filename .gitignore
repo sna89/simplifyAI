@@ -1,0 +1,19 @@
+.venv/
+
+# PyCharm
+.idea/
+
+# Project specific
+dataset/
+pecs_index/
+NoamArbelHomeAssignment.zip
+SimplifAi-HomeAssignment.docx
+SimplifAi.drawio.html
+🧠 Take-Home Assignment – Data Scientist.pdf
+*.sqlite3
+*.pkl
+*.json
+!/dataset/metadata.json
+!/dataset/sentences.json
+!/dataset/cache/downloaded_ids.json
+!/pecs_index/sparse/bm25_doc_ids.json
